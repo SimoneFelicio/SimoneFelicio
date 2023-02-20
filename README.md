@@ -2,7 +2,6 @@
 
 ## Estudando Engenharia de Dados
 
-- 💻 Estudante
 - 📈 Em constante apredizagem
 
 ### Languages and Tools:
