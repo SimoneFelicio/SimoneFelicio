@@ -1,4 +1,4 @@
-### Simone Felício - [Futura Engenheira de Dados]
+### [Futura Engenheira de Dados]
 
 ### 📈 Estudando Engenharia de Dados
 
