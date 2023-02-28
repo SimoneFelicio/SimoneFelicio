@@ -1,6 +1,4 @@
-### [Futura Engenheira de Dados]
-
-### 📈 Estudando Engenharia de Dados
+### 📈 Estudando Programação
 
 ### Linguagens e Ferramentas:
 
